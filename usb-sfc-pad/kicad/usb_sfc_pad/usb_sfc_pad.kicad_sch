@@ -5265,7 +5265,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 73.66 123.19 0)
 			(effects
 				(font
@@ -5465,7 +5465,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 110.49 123.19 0)
 			(effects
 				(font
@@ -6193,7 +6193,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49b2e8c3-ec2e-47ab-97bc-75bcf4b9d503")
-		(property "Reference" "J105"
+		(property "Reference" "J106"
 			(at 256.032 118.364 90)
 			(effects
 				(font
@@ -6249,7 +6249,7 @@
 		(instances
 			(project "usb_sfc_pad"
 				(path "/7a50d412-cc3f-49bd-9754-262bb19f947d"
-					(reference "J105")
+					(reference "J106")
 					(unit 1)
 				)
 			)
@@ -6470,7 +6470,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "52d4b0eb-8491-4dbc-8986-b29239a1f75a")
-		(property "Reference" "J104"
+		(property "Reference" "J105"
 			(at 235.712 118.11 90)
 			(effects
 				(font
@@ -6526,7 +6526,7 @@
 		(instances
 			(project "usb_sfc_pad"
 				(path "/7a50d412-cc3f-49bd-9754-262bb19f947d"
-					(reference "J104")
+					(reference "J105")
 					(unit 1)
 				)
 			)
@@ -6558,7 +6558,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 190.5 97.79 0)
 			(effects
 				(font
@@ -6775,7 +6775,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 38.1 123.19 0)
 			(effects
 				(font
@@ -6843,7 +6843,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 73.66 166.37 0)
 			(effects
 				(font
@@ -6964,7 +6964,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "78b0c7de-e295-48c4-939d-737a94cd9d03")
-		(property "Reference" "J102"
+		(property "Reference" "J103"
 			(at 236.982 68.58 90)
 			(effects
 				(font
@@ -7020,7 +7020,7 @@
 		(instances
 			(project ""
 				(path "/7a50d412-cc3f-49bd-9754-262bb19f947d"
-					(reference "J102")
+					(reference "J103")
 					(unit 1)
 				)
 			)
@@ -7118,7 +7118,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 260.35 93.98 0)
 			(effects
 				(font
@@ -7392,7 +7392,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 147.32 166.37 0)
 			(effects
 				(font
@@ -8346,7 +8346,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 38.1 166.37 0)
 			(effects
 				(font
@@ -8748,7 +8748,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 110.49 166.37 0)
 			(effects
 				(font
@@ -9120,7 +9120,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce309585-9488-440a-b905-32dc910bab17")
-		(property "Reference" "J103"
+		(property "Reference" "J104"
 			(at 257.302 68.834 90)
 			(effects
 				(font
@@ -9176,7 +9176,7 @@
 		(instances
 			(project "usb_sfc_pad"
 				(path "/7a50d412-cc3f-49bd-9754-262bb19f947d"
-					(reference "J103")
+					(reference "J104")
 					(unit 1)
 				)
 			)
@@ -9546,7 +9546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 147.32 123.19 0)
 			(effects
 				(font
@@ -9614,7 +9614,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 190.5 140.97 0)
 			(effects
 				(font
@@ -9814,7 +9814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Local:SFC_Pad_F_NoSolder_5.5mm"
 			(at 259.08 143.51 0)
 			(effects
 				(font
