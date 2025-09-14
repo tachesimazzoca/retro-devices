@@ -4887,7 +4887,7 @@
 			)
 		)
 	)
-	(global_label "PL"
+	(global_label "TL"
 		(shape input)
 		(at 143.51 63.5 0)
 		(fields_autoplaced yes)
@@ -4899,7 +4899,7 @@
 		)
 		(uuid "851fd900-e67e-4a65-ab28-55ca69035027")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 148.7933 63.5 0)
+			(at 148.4909 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5242,12 +5242,12 @@
 	(symbol
 		(lib_id "Local:SW_Pad")
 		(at 73.66 128.27 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "015f6003-f6d3-4c96-9e06-743ab0422d66")
 		(property "Reference" "SW102"
 			(at 73.66 120.65 0)
@@ -5442,12 +5442,12 @@
 	(symbol
 		(lib_id "Local:SW_Pad")
 		(at 110.49 128.27 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "159ac703-866f-4ce1-9dfa-6dff2c8e4c15")
 		(property "Reference" "SW103"
 			(at 110.49 120.65 0)
@@ -6752,12 +6752,12 @@
 	(symbol
 		(lib_id "Local:SW_Pad")
 		(at 38.1 128.27 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6b3e20f3-5417-4156-b4de-76bce9f2b6ba")
 		(property "Reference" "SW101"
 			(at 38.1 120.65 0)
@@ -6820,12 +6820,12 @@
 	(symbol
 		(lib_id "Local:SW_Pad")
 		(at 73.66 171.45 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "72af81b4-9e76-4b94-8dbf-b50b13869c58")
 		(property "Reference" "SW106"
 			(at 73.66 163.83 0)
@@ -7374,7 +7374,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8a3a5dca-0173-4264-944b-d27872f42c0d")
 		(property "Reference" "SW108"
 			(at 147.32 163.83 0)
@@ -8328,7 +8327,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b198ed85-ee64-4cac-af63-042f5a36bda5")
 		(property "Reference" "SW105"
 			(at 38.1 163.83 0)
@@ -8730,7 +8728,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bc55d5a4-3580-4c89-832d-192c33a9ef32")
 		(property "Reference" "SW107"
 			(at 110.49 163.83 0)
@@ -9523,12 +9520,12 @@
 	(symbol
 		(lib_id "Local:SW_Pad")
 		(at 147.32 128.27 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e86f76bf-882c-4e26-aa3c-2d7b0eec6c5d")
 		(property "Reference" "SW104"
 			(at 147.32 120.65 0)
