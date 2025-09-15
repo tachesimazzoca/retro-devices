@@ -9012,7 +9012,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm"
+		(property "Footprint" "Local:SSOP-20_5.3x7.2mm_P0.65mm"
 			(at 87.63 63.5 0)
 			(effects
 				(font
