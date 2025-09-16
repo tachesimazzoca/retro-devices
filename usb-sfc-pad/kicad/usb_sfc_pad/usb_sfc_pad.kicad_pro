@@ -467,7 +467,7 @@
       "idf": "",
       "netlist": "",
       "plot": "fabrication/JLCPCB/gerber/",
-      "pos_files": "",
+      "pos_files": "fabrication/JLCPCB/bom/",
       "specctra_dsn": "",
       "step": "usb_sfc_pad.step",
       "svg": "",
