@@ -264,4 +264,15 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "95e68acd-0986-4993-90cf-86d4e2224dab")
 	)
+	(model "${KIPRJMOD}/3dmodels/0533980271.stp"
+		(offset
+			(xyz 0 1.8 5.7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -180 0)
+		)
+	)
 )
